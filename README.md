@@ -1,3 +1,7 @@
+# 这是一个有关中国邮政问题的代码，对我很有用，所以我fork it  ，下面的是原作者的readme
+From: https://github.com/dilsonpereira/chinese-postman-problem
+
+
 # A C++ solution for the chinese postman problem
 
 To clone the repo and its dependencies (submodules): 
